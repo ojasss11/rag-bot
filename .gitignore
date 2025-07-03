@@ -1,0 +1,19 @@
+# Python virtual environments
+venv/
+myenv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Chroma vector store (local DB files)
+chroma_store/
+
+# Streamlit config history (optional)
+.streamlit/
+
+# VSCode settings (optional, if you use VSCode)
+.vscode/
